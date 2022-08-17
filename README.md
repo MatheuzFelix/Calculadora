@@ -4,7 +4,7 @@
 
 
 # 📜 Sobre
-<p>Projeto integrador V - criação de uma calculadora simples em HTML, para a provação na disciplina programação em ambientes de redes de computadores do modulo três.<p>
+<p>Faesa: Projeto integrador V - criação de uma calculadora simples em HTML, para a provação na disciplina programação em ambientes de redes de computadores do modulo três.<p>
 
 # ⚔️ Ferramenta
 <p>HTML<p>
