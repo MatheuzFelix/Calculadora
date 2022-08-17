@@ -1,6 +1,6 @@
 # Monitoramento de preços
 
-<p align="center">Projeto integrador V</p>
+<p align="center">Faesa: Projeto integrador V</p>
 
 
 # 📜 Sobre
